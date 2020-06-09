@@ -21,7 +21,9 @@
     "react-scripts": "3.0.1",
     "react-slick": "^0.25.2",
     "reactstrap": "^8.4.1",
-    "styled-components": "latest"
+    "styled-components": "latest",
+    "video-react": "^0.14.1",
+    "video.js": "^7.8.2"
   },
   "scripts": {
     "prestart": "if [ ! -d node_modules ]; then npm install; fi",
